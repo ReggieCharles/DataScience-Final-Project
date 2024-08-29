@@ -1,1 +1,6 @@
 # DataScience-Final-Project
+This project explored the effectiveness of three forecasting models—ARIMA, Convolutional Neural Networks (CNN), and Long Short-Term Memory (LSTM) networks—for predicting the S&P 500 index. The objective was to assess and compare the three models in terms of their accuracy and reliability in forecasting market trends. I employed historical S&P 500 data to implement and evaluate each model, using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared (R²) to gauge their performance. Through the analysis, I found that the LSTM model outperformed both the CNN and ARIMA models, thus achieving the lowest MAE and MSE as well as the highest R² value. I attribute the LSTM model’s superior performance to its capacity for learning long-term dependencies and capturing complex temporal patterns present in the financial data. I believe that LSTM models offer significant advantages for improving prediction accuracy and providing valuable insights for investors and analysts. For future research, I recommend exploring hybrid models and incorporating additional data sources to enhance forecasting reliability and robustness.
+The data was imported, cleaned, and processed.
+each model was built,trained and data fed into the models
+exploratory data analysis
+results were obtained.
